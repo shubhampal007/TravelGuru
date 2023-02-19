@@ -1,0 +1,83 @@
+.card {
+    /* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); */
+    transition: 0.3s;
+    width: 40%;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 20px 16px;
+  }
+  .titleName{
+    color: white;
+    margin-left: 5rem;
+    margin-right:40rem ;
+  }
+
+  .menuBar{
+    display: flex;
+    /* justify-content: flex-end; */
+    background-color:black;
+    gap: 0.8rem;
+    width: 100%;
+    height: 3.2rem;
+  }
+  .mainDoc{
+    /* background-color: bisque; */
+  }
+  .menuButton{
+    display: inline;
+    padding: 10px 30px;
+    width: 5cm;
+    float: right;
+    margin-top: 2rem;
+    margin-top: 2mm;
+    color: white;
+    background-color:black;
+    word-wrap : break-word;
+    
+  }
+
+
+  .displayPicture
+  {
+    width: auto;
+    height: 45rem;
+    overflow: hidden;
+}
+.packages{
+  display: flex;
+}
+.packagesHeading,.aboutUs{
+  text-align: center;
+}
+.cardImage{
+  height: 20rem;
+}
+  footer{
+    background-color: black;
+    color: white;
+    /* padding:0.5REM; */
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-left: 0%;
+    text-align: center;
+  }
+  .cardButton
+  {
+    justify-content: flex-end;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    padding: 10px 25px;
+    background-color: rgb(184, 184, 89);
+    border-radius: 2rem;
+  }
+  .aboutUs{
+    padding: 6px 25px;
+  }
+  .aboutUs:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+

@@ -1,0 +1,53 @@
+.main-doc-login-heading{
+  
+    padding: 3px;
+    margin: 3px;
+    /* margin-right: 15rem; */
+    text-align: center;
+
+}
+
+.main-doc-login{
+    background-color: white;
+    
+    margin-top: 200px;
+    text-align: center;
+   
+    padding: 8px;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+
+ 
+}
+
+.main-doc-login-body{
+    
+    text-align: center;
+   
+   }
+
+   .textbox{
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    position: relative;
+    border-radius: 15cm;
+}
+#button-submit{
+    padding: 10px 50px;
+    background-color: rgb(238, 176, 77);
+    border-radius: 15cm;
+    border-width: 2px;
+    border-radius: 3 rem;
+
+
+}
+.body{
+    background-color: rgb(247, 221, 181);
+    background-image: url('background.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
