@@ -1,0 +1,16 @@
+.backgroundImage
+{
+
+    width: auto;
+    height: 45rem;
+    overflow: hidden;
+    background-size: cover;
+
+
+
+
+}
+img {
+    max-width:100%;
+    height:auto;
+}
